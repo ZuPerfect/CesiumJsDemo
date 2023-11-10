@@ -19,3 +19,7 @@ npm run dev
 ```sh
 npm run build
 ```
+
+## 效果图
+
+![效果图](./public/effect_picture/效果图.png)
