@@ -1,6 +1,6 @@
 ## 介绍
 
-基于 vue3+vite 的 three.js 柜体自定义摆放案例-第二阶段代码
+基于 vue3+vite 的 cesium.js 的练手示例
 
 ## 安装依赖
 
