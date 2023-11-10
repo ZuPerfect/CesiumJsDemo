@@ -8,6 +8,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "cesium": "^1.111.0",
     "three": "^0.148.0",
     "vue": "^3.3.4",
     "vue-router": "^4.2.2"
