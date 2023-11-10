@@ -4,6 +4,8 @@
 
 <script>
 import { onMounted } from "vue";
+
+// 需要将node_modules下面的cesium文件夹拷贝到public文件夹下面
 window.CESIUM_BASE_URL = "/static/Cesium/";
 
 import * as Cesium from "cesium";
