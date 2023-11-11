@@ -10,6 +10,7 @@ window.CESIUM_BASE_URL = "/static/Cesium/";
 
 import * as Cesium from "cesium";
 import "cesium/Build/Cesium/Widgets/widgets.css";
+// 需要申请cesium账号，在官网拿token
 Cesium.Ion.defaultAccessToken =
   "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiI1MTNiZDI4Ny1lMThmLTQ3YjQtOThiNS1iNzAxZGUyZDljMTQiLCJpZCI6MTc3MzczLCJpYXQiOjE2OTk2MDQ3Nzh9.4kfVf4DgbCiyjGC5CUC4yFZgVQXKEaTnNQpb1UMYEPM";
 
@@ -40,6 +41,7 @@ export default {
 };
 </script>
 <style scoped>
+/* 占满屏幕 */
 #cesiumContainer {
   position: fixed;
   top: 0;
